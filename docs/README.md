@@ -11,4 +11,5 @@
 - [Введение](introduction.md)
 - [Функции приложения](features/authentication.md)
 - [Пользовательские настройки](user/settings.md)
+- [Использование приложения](user/usage/app_usage.md)
 - [Решение проблем](troubleshooting.md)
